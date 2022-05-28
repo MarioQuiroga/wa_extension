@@ -15,4 +15,6 @@ Maked following the website tutorial https://developer.chrome.com/docs/extension
 * Load extension with Load unpacked option and choose the unzipped folder. ![image](https://user-images.githubusercontent.com/24282432/170811856-76779e5a-6f94-4603-9fc2-65029732d6f7.png)
 
 
-* Pin extension in your browser ![image](https://user-images.githubusercontent.com/24282432/170812060-a0986a54-625e-48fd-bd5c-e5c5de37eba8.png)
+* Pin extension in your browser 
+
+![image](https://user-images.githubusercontent.com/24282432/170812060-a0986a54-625e-48fd-bd5c-e5c5de37eba8.png)
