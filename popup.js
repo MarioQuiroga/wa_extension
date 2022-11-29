@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     // current page
     function setPageBackgroundColor() {
         chrome.storage.sync.get("color", ({ color }) => {
-            var sidebar = document.getElementsByClassName("ldL67 _2i3T7")[1];
+            var sidebar = document.getElementsByClassName("_2Ts6i _3RGKj")[1];
             if (sidebar.style.display == "none") {
                 sidebar.style.display = "block";
             } else {
